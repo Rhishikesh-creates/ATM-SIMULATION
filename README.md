@@ -10,7 +10,8 @@
 
   How to keep making same mistake again and again and keep solving it till 12am 
 
-# HOW_TO_RU
+# HOW_TO_RUN
 
-  open termianl and go to folder where all files are prsent. type "javac ATM.java" then "java ATM" and you are   good to go.
+  open termianl and go to folder where all files are prsent. type "javac ATM.java" then "java ATM" and you     are good to go.
+  
 ======
